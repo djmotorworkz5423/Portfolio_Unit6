@@ -1,14 +1,14 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("images/skymidnightpurpler34.jpg");
       background-size: cover;
-      color: white;
+      color: blue;
     }
     .nav {
       color: white;
     }
     h1 {
-      font-size: 70px;
+      font-size: 60px;
     }
     img {
       margin: 40px 0px 0px 0px;
@@ -38,3 +38,6 @@
         display: block;
       }
     }
+body {
+  background-color: black
+}
